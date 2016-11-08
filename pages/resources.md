@@ -6,14 +6,56 @@ layout: page
 
 ## Resources here here to help!
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Language Resources
 
-https://temple.edu
+Online Dictionaries
+www.garzantilinguistica.it
+www.wordreference.com
 
----
+Online Italian Encyclopedia
+www.treccani.it
 
-## Resources here here to help!
+Language Learning Sites
+www.impariamoitaliano.com
+www.oneworlditaliano.com
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Media & Culture
 
-https://temple.edu
+Newspapers
+www.corriere.it
+www.repubblica.it
+www.gazzetta.it
+
+Magazines
+www.espresso.republicca.it
+www.donnamoderna.com
+www.novella2000.it
+www.golagioconda.it
+www.gamberorosso.it
+www.campus.it
+
+Television
+www.mediaset.it
+www.rai.it
+
+Music
+www.musicaitaliana.com
+www.italiansinfonia.com/stations.htm
+
+Online Bookstores
+www.ibs.it
+www.hoepli.it
+www.libreriauniversitaria.it
+
+Travel and Tourism
+
+www.trenitalia.com
+www.booking.com
+www.meridiana.it
+www.italia.it
+www.iicwashington.esteri.it/IIC_Washington
+www.italiaturismo.com
+www.touritaly.org
+www.selectitaly.com
+www.polomuseale.firenze.it
+www.mv.vatican.va
