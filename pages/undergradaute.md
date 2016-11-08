@@ -6,7 +6,7 @@ layout: page
 
 Build proficiency with an emphasis on the Italian cultural, global and national identity. Our program provides a window into Italian culture and teaches students language retention, competency and proficiency. The major will prepare you for a career requiring analytical thinking and communication skills in fields such as education, academia, business, international business, government service, travel and tourism.
 
-# Face Time With Faculty
+## Face Time With Faculty
 
 Our small class size allow faculty and students to build a rapport with each other. In turn, we devote a great amount of individual attention to every student throughout their college career, leading them towards success. We understand their talents and potential, and work with them to find  opportunities that best fit their professional and academic aspirations.  
 
