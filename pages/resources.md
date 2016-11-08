@@ -13,8 +13,7 @@ layout: page
 - www.wordreference.com
 
 ## Online Italian Encyclopedia
-www.treccani.it
-
+- www.treccani.it
 - Language Learning Sites
 - www.impariamoitaliano.com
 - www.oneworlditaliano.com
