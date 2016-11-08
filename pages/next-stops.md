@@ -4,18 +4,13 @@ permalink: "/next-stops"
 layout: page
 ---
 
-## Heading
-We help connect students with internship and job  opportunities, as well as placement in prestigious master’s and PhD programs
+Our students have gone onto further graduate study in  Italian, as well as internship positions at the Consulate General of Italy. They also frequently enter the fields of law, science, communications and education.
 
-## Our students have secured internships with:
-- Congresswoman Allyson Schwartz
-- Philadelphia Magazine
-- The Please Touch Museum
-- American Lung Association
+Among other landings, our recent alumni have secured the following job placements:
 
-## Recently, our alumni have secured coveted positions with the following employers:
-
-- Patient access representative at St. Luke’s University Health Network
-- Digital media coordinator at Love Beets
-- Therapeutic staff support at Foundations Behavioral Health
-- Teen education coordinator at Kingsbridge Heights Community Center
+- Italian Language Program Coordinator, The University of Pennsylvania
+- Associate Project Manager, Clean Energy Associates
+- Executive Assistant, Filitalia International Organization
+- Protocol Administrator, GOG (Gynecologic Oncology Group)
+- Marketing Communication Specialist, Educere LLC
+- Scholarship Coordinator, Janet Logan Daily Foundation
