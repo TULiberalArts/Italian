@@ -68,4 +68,5 @@ In order to take full advantage of your time abroad, the Italian program at Temp
 Your journey of global awareness begins in Philadelphia but should not end in Rome. Upon your return, it is recommended that students continue to practice their language skills by furthering their studies of Italian through the Italian program so that they may take full advantage of the Temple Rome experience.
 
 Application Deadline: February 15, 2016
+
 [APPLY NOW](http://temple.us11.list-manage.com/track/click?u=909f549002f3ee69f5f0ecbe9&id=8f288b060f&e=4df0fdc07c)
