@@ -8,20 +8,20 @@ layout: page
 
 ## Language Resources
 
-Online Dictionaries
+- Online Dictionaries
 www.garzantilinguistica.it
 www.wordreference.com
 
 ## Online Italian Encyclopedia
 www.treccani.it
 
-Language Learning Sites
+- Language Learning Sites
 www.impariamoitaliano.com
 www.oneworlditaliano.com
 
 ## Media & Culture
 
-Newspapers
+- Newspapers
 www.corriere.it
 www.repubblica.it
 www.gazzetta.it
@@ -42,7 +42,7 @@ www.rai.it
 www.musicaitaliana.com
 www.italiansinfonia.com/stations.htm
 
-Online Bookstores
+- Online Bookstores
 www.ibs.it
 www.hoepli.it
 www.libreriauniversitaria.it
