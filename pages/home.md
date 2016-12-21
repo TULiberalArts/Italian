@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: "/"
-layout: page
+layout: home
 ---
 
 The Italian program is home to adventurous and  curious individuals who seek to learn about other  cultures, break down stereotypes and explore the world. Building on a firm foundation of proficiency  in Italian language, the Italian major is an
