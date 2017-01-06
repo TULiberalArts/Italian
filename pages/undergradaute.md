@@ -1,7 +1,8 @@
 ---
 title: Undergraduate
-permalink: "/undergraduate"
+permalink: /undergraduate
 layout: page
+published: true
 ---
 
 Build proficiency with an emphasis on the Italian cultural, global and national identity. Our program provides a window into Italian culture and teaches students language retention, competency and proficiency. The major will prepare you for a career requiring analytical thinking and communication skills in fields such as education, academia, business, international business, government service, travel and tourism.
@@ -21,9 +22,9 @@ Each year, two Italian majors are selected to participate in a paid teaching pro
 
 ## Academic offerings
 
- - BA in Italian
- - Minor in Italian
- - Certificate in Italian
+ - [BA in Italian]((http://bulletin.temple.edu/undergraduate/liberal-arts/italian/ba italian/#requirementstext))
+ - [Minor in Italian]((http://bulletin.temple.edu/undergraduate/liberal-arts/italian/minor-italian/))
+ - [Certificate in Italian]((http://bulletin.temple.edu/undergraduate/liberal-arts/italian/certificate-italian/))
 
 ## Italian Program Overview
 
