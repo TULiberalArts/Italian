@@ -4,6 +4,31 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /undergraduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: > #
+  ### Contact Us
+
+  <hr>
+
+  **Chair:** <br/>
+  Cristina Gragnani<br/>
+  537 Anderson Hall<br/>
+  [(215) 204-1816](tel:2152041816)<br/>
+  [gragnani@temple.edu](mailto:gragnani@temple.edu)<br/>
+
+  **Administrator:**<br/>
+  Michelle Pugliese<br/>
+  429 Anderson Hal <br/>
+  [(215) 204-5628](tel:2152045628)<br/>
+  [pugliese@temple.edu](mailto:pugliese@temple.edu)<br/>
+
+  <hr>
+
+  **Coordinator:** <br/>
+  Stephanie Smith<br/>
+  539 Anderson Hall<br/>
+  [(215) 204-1261](tel:2152041261)<br/>
+  [ssmith14@temple.edu](mailto:ssmith14@temple.edu)<br/>
 ---
 
 Build proficiency with an emphasis on the Italian cultural, global and national identity. Our program provides a window into Italian culture and teaches students language retention, competency and proficiency. The major will prepare you for a career requiring analytical thinking and communication skills in fields such as education, academia, business, international business, government service, travel and tourism.
