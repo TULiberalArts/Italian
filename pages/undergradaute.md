@@ -15,6 +15,8 @@ sidebar-content: > #
   537 Anderson Hall<br/>
   [(215) 204-1816](tel:2152041816)<br/>
   [gragnani@temple.edu](mailto:gragnani@temple.edu)<br/>
+  
+  <hr>
 
   **Administrator:**<br/>
   Michelle Pugliese<br/>
