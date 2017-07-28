@@ -5,7 +5,7 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Cristina Gragnani  
    537 Anderson Hall  
@@ -26,7 +26,7 @@ sidebar-content: > #
    Stephanie Smith  
    539 Anderson Hall    
    [(215) 204-1261](tel:2152041261)   
-   [ssmith14@temple.edu](mailto:ssmith14@temple.edu)  
+   [ssmith14@temple.edu](mailto:ssmith14@temple.edu)
 ---
 
 Build proficiency with an emphasis on the Italian cultural, global and national identity. Our program provides a window into Italian culture and teaches students language retention, competency and proficiency. The major will prepare you for a career requiring analytical thinking and communication skills in fields such as education, academia, business, international business, government service, travel and tourism.
@@ -43,6 +43,8 @@ one summer.
 ## Teach In Italy
 
 Each year, two Italian majors are selected to participate in a paid teaching program in Northern Italy through the Study, Intercultural Training and Experience (SITE) program. SITE interns live in a city of the region of Lombardy for three- to -eight months, teach English at local high schools, and are trained in teaching.
+
+When you are ready to apply, submit your application online at (admissions.temple.edu/apply)[http://admissions.temple.edu/apply].
 
 ## Academic offerings
 
