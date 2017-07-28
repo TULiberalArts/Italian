@@ -44,7 +44,7 @@ one summer.
 
 Each year, two Italian majors are selected to participate in a paid teaching program in Northern Italy through the Study, Intercultural Training and Experience (SITE) program. SITE interns live in a city of the region of Lombardy for three- to -eight months, teach English at local high schools, and are trained in teaching.
 
-When you are ready to apply, submit your application online at (admissions.temple.edu/apply)[http://admissions.temple.edu/apply].
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
 ## Academic offerings
 
