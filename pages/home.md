@@ -1,13 +1,14 @@
 ---
 title: Home
-meta-description: 100 or so words
-meta-keywords: 3 or 4 unique for this page
 permalink: /
 layout: home
+description: 
+keywords: ''
+description: >-
 feature: false
 feature-title: 
-feature-body: 
 feature-image: 
+feature-body: 
 published: true
 ---
 
