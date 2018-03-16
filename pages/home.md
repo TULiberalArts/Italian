@@ -16,8 +16,8 @@ The Italian program is home to adventurous and curious individuals who seek to l
 
 ## Academic offerings
 
- - [BA in Italian](http://bulletin.temple.edu/undergraduate/liberal-arts/italian/ba italian/#requirementstext)
- - [Minor in Italian](http://bulletin.temple.edu/undergraduate/liberal-arts/italian/minor-italian/)
+ - [BA in Italian](http://bulletin.temple.edu/undergraduate/liberal-arts/italian/ba italian/#requirementstext) 
+ - [Minor in Italian](http://bulletin.temple.edu/undergraduate/liberal-arts/italian/minor-italian/) 
  - [Certificate in Italian](http://bulletin.temple.edu/undergraduate/liberal-arts/italian/certificate-italian/)
 
 <div class="row row-wide">
