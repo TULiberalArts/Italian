@@ -5,7 +5,7 @@ layout: home3
 description: >- 
 keywords: ''
 description: >-
-feature: false
+feature: 
 feature-title: 
 feature-image: Italian Hero.jpg
 feature-body: 
