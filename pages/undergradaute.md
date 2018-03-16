@@ -37,6 +37,11 @@ A student majoring in Italian can expect to take courses in Italian for Business
 
 Build proficiency with an emphasis on the Italian cultural, global and national identity. Our program provides a window into Italian culture and teaches students language retention, competency and proficiency. The major will prepare you for a career requiring analytical thinking and communication skills in fields such as education, academia, business, international business, government service, travel and tourism.
 
+## Italian Student Remarks
+“The most momentous moment for me is the suggestion and gentle persuasion of Professor Gragnani to apply for the SITE program in Lombardia. I was accepted and spent three glorious months of Milan teaching at I.T.C. Gino Zappa in Saronno, Varese. This experience really strengthened my Italian language skills and gave me the unique opportunity to immerse myself in Italian culture.” (Anastacia Garcia, Anthropology & Italian, ’11)
+
+“As a student of psychology, I was always eager to explore and analyze people – the Italian program presented a wonderful opportunity to approach this ultimate objective from a unique angle. Through the acquisition and investigation of a new language and culture, my perception of and appreciation for methods of communication and cultural diversity were enhanced.” (Emma Bushong, Psychology & Italian ’13)
+
 ## Face Time With Faculty
 Our small class size allow faculty and students to build a rapport with each other. In turn, we devote a great amount of individual attention to every student throughout their college career, leading them towards success. We understand their talents and potential, and work with them to find  opportunities that best fit their professional and academic aspirations.  
 
