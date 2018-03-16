@@ -46,7 +46,7 @@ Build proficiency with an emphasis on the Italian cultural, global and national 
 Our small class size allow faculty and students to build a rapport with each other. In turn, we devote a great amount of individual attention to every student throughout their college career, leading them towards success. We understand their talents and potential, and work with them to find  opportunities that best fit their professional and academic aspirations.  
 
 ## Italy: #1 Study Abroad Destination
-Students of Italian not only study abroad, but they have the opportunity to partake in fellowship and teaching programs as well as internships in Italy. Italian majors and minors are highly encouraged to apply for the Marthe Lavallée-Williams Study Abroad Scholarship and Grants Award. Assorted awards ranging from $2,000 to $8,000 support language study in Italy for one semester, one academic year, or one summer.
+Students of Italian not only study abroad, but they have the opportunity to partake in fellowship and teaching programs as well as internships in Italy. Italian majors and minors are highly encouraged to apply for the Marthe Lavallée-Williams Study Abroad Scholarship and Grants Award. Assorted awards ranging from $2,000 to $8,000 support language study in Italy for one semester, one academic year or one summer.
 
 ## Teach In Italy
 Each year, two Italian majors are selected to participate in a paid teaching program in Northern Italy through the Study, Intercultural Training and Experience (SITE) program. SITE interns live in a city of the region of Lombardy for three- to -eight months, teach English at local high schools, and are trained in teaching.
