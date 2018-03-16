@@ -7,7 +7,7 @@ keywords: ''
 description: >-
 feature: 
 feature-title: 
-feature-image: Italian Hero.jpg
+feature-image: media/Italian Hero.jpg
 feature-body: 
 published: true
 
