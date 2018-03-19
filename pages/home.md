@@ -25,7 +25,7 @@ Building on a firm foundation of proficiency in Italian language, the Italian ma
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title=" " 
+    title="NEED CONTENT" 
     content=" " 
     image="" 
     button-link=" " 
@@ -34,14 +34,14 @@ Building on a firm foundation of proficiency in Italian language, the Italian ma
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
       title=" " 
-      content=" " 
+      content="NEED CONTENT" 
       image="" 
       button-link=" " 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title=" " 
+        title="NEED CONTENT" 
         content=" " 
         image="" 
         button-link=" " 
