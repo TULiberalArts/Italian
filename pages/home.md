@@ -33,8 +33,8 @@ Building on a firm foundation of proficiency in Italian language, the Italian ma
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title=" " 
-      content="NEED CONTENT" 
+      title="NEED CONTENT" 
+      content="" 
       image="" 
       button-link=" " 
       button-text="Learn More" %}
