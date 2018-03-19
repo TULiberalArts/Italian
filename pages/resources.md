@@ -81,3 +81,9 @@ For additional information on language translation exams, please contact the app
 - [Tour Italy](www.touritaly.org)
 - [Select Otaly](www.selectitaly.com)
 - [Polo Museale Fiorentino](www.polomuseale.firenze.it)
+
+## Additional University Resources
+- [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
+- [Graduation application](http://www.temple.edu/registrar/students/graduation/)
+- [Financing your education(http://sfs.temple.edu/)
+- [Undergraduate Policies and Procedures(http://bulletin.temple.edu/undergraduate/academic-policies/)
