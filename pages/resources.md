@@ -6,6 +6,30 @@ keywords: ''
 description: >-
 published: true
 ---
+## Graduate Language Translation Exams
+Graduate Language Translation Exams in French, German, and Italian are held twice each semester. Exams in Russian can be arranged by appointment. The department will notify students of their results by email.
+
+- [Register Now](https://form.jotform.com/80604468472157)
+
+### Selection of Passages for Language Translation Exams
+Each student is given a passage in the language selected that is related to her/his area of specialization as indicated on the exam registration form. Passages may be chosen from appropriate books, journals, or websites, and may range from original pieces, to theoretical works, critical articles, or reviews. The passage for translation may be chosen in one of two ways:
+
+The passage may be chosen without any input whatsoever from the student or advisor;
+The passage may be chosen based upon the recommendation of the student’s advisor. In this case, the advisor may either send the passage directly to the examiner, or may confer with the student and later have the student take the passage to the examiner. If the student takes the passage to the examiner, this option is subject to the following conditions:
+(a) the passage must have been chosen and certified by the advisor;
+(b) the passage must be at least 35 pages in length
+(c) the passage must be reviewed by the examiner for degree of difficulty. This assessment must be done **no earlier nor later than one week prior to the exam**. The determination of degree of difficulty is especially important in the case of students who may be aiming for advanced proficiency.
+(d) In the past, submitted passages have been rejected for not meeting the conditions as spelled out in sections (a), (b), and (c) above.
+
+The passage selected to be translated from the original language to English during the exam shall be approximately 350 words in length, and must be translated within ninety minutes. Students may use a dictionary or other resources in doing their translation. However, **no electronic resources will be allowed**. 
+
+A passing grade is given if the passage is translated completely with an accuracy rating of satisfactory, and with minimal errors in grammar. However, in the case of students who choose to be tested for advanced proficiency, seeking thereby to be exempted from being tested in another language, an accuracy rating of excellent is required.
+
+For additional information on language translation exams, please contact the appropriate exam proctor below.
+
+- Italian (Fall): [Carmelo Galati](mailto:cgalati@temple.edu)
+- Italian (Spring): [Cristina Gragnani](gragnani@temple.edu) 
+
 ## Language Resources
 
 **Online Dictionaries**
