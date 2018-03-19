@@ -8,7 +8,7 @@ description: >-
 feature: true
 feature-title: 
  Demonstrate an Understanding and Appreciation of Cultural Perspectives and Practices in the Italian-speaking World.
-feature-image: media/Italian Hero.jpg
+feature-image: media/resized Italian Hero.jpg
 feature-body:  >-
  The Italian program is home to adventurous and curious individuals who seek to learn about 
  other cultures, break down stereotypes and explore the world. 
