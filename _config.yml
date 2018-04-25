@@ -56,10 +56,9 @@ university:
   url: https://temple.edu/
 college:
   name: College of Liberal Arts
-  url: https://liberalarts.temple.edu/
-  
+  url: https://liberalarts.temple.edu/  
 program_news: https://liberalarts.temple.edu/news/italian
-program_events: https://events.temple.edu/events/italian 
+program_events: https://events.temple.edu/department/italian 
 
 
 # Google Tag Manager OR Google Analytics
