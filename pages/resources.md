@@ -2,7 +2,7 @@
 title: Resources
 permalink: /resources/
 layout: page
-keywords: ''
+keywords: 'graduate language exam, language resources'
 description: >-
 published: true
 ---
