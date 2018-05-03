@@ -2,7 +2,7 @@
 title: Undergraduate
 permalink: /undergraduate/
 layout: page
-keywords: ''
+keywords: 'study italian, teach, italian language requirements, student remarks'
 description: >-
 published: true
 sidebar: true
