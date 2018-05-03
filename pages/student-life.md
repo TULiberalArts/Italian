@@ -2,7 +2,7 @@
 title: Student Life
 permalink: /student-life/
 layout: page
-keywords: ''
+keywords: 'study abroad, rome, internships, awards and scholarships'
 description: >- 
 published: true
 ---
