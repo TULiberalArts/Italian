@@ -13,7 +13,7 @@ feature-body:  >-
  to learn about other cultures, break down stereotypes and explore the world. 
 published: true
 ---
-Building on a firm foundation of proficiency in Italian language, the Italian major is an interdisciplinary course of study that places strong emphasis on cultural, global, and national identity studies. Global awareness and cultural literacy are fundamental in order to be active citizens, capable of promoting change and innovation. Our students are taught the vital critical thinking, public speaking and problem solving skills necessary to thrive both at home and abroad.
+Building on a firm foundation of Italian language proficiency, the Italian major is an interdisciplinary program of study that places a strong emphasis on cultural, global and national identity studies. Global awareness and cultural literacy are fundamental to being active citizens, capable of promoting change and innovation. Our students are taught the vital critical thinking, public speaking and problem-solving skills necessary to thrive both at home and abroad.
 
 ## Academic offerings
 
