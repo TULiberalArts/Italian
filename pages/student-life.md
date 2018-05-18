@@ -6,6 +6,7 @@ keywords: 'study abroad, rome, internships, awards and scholarships'
 description: >- 
 published: true
 ---
+At the College of Liberal Arts, you’ll learn to speak Italian in the classroom—but your education doesn’t have to end there. You can [study abroad](#study-abroad-in-rome) in Rome, [apply for internships](#internships) and win [awards or scholarships](#awards-and-scholarships).
 
 ## Study Abroad in Rome
 ![Rome Students]({{site.baseurl}}/media/resized Rome Study Abroad.jpg){:.img-right}
@@ -21,7 +22,7 @@ Your journey of global awareness begins in Philadelphia but should not end in Ro
 ## Internships
 Each year 2-3 students are selected to serve as English Teaching Assistants via a paid internship in Lombardy, Italy through the [Study, Intercultural Training and Experience (SITE) Program](http://www.dickinson.edu/info/20126/italian_and_italian_studies/181/internshipjob_opportunities/2). Other internship opportunities include [The America-Italy Society (AIS) of Philadelphia](http://www.aisphila.org/) where a paid internship is offered for a summer archival, research, and writing project on its history and mission. The intern gains the opportunity to select historical documents, do research on the web, and prepare information to publish on the AIS website. The newly opened [History of Italian Immigration Museum](http://www.filitaliainternational.com/museum-main) in South Philadelphia also frequently seeks Italian students to intern in positions such as general museum assistance, museum office assistance and public relations.
 
-## Awards/Scholarships
+## Awards and Scholarships
 The department of FGIS offers [Marthe Lavallée-Williams Study Abroad Scholarships & Grants](https://form.jotform.com/80604448772158) ranging from $2,000-8,000 to CLA undergraduate students in good academic standing. Assorted awards support language study in France or Italy for 1 semester, 1 academic year or 1 summer.
 
 Scholarships available outside of the department are offered through organizations such as the [Coccia Foundation](http://www.cocciafoundation.org/), [National Italian-American Foundation](https://www.niaf.org/programs/scholarships/) and [Filitalia](http://www.filitaliainternational.com/?q=node/8). [Fulbright Scholarships](http://www.cies.org/) are also available through the United States Department of State Bureau of Educational and Cultural Affairs.
