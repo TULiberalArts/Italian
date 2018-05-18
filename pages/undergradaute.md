@@ -29,6 +29,7 @@ sidebar-content: |
    [(215) 204-1261](tel:2152041261)   
    [ssmith14@temple.edu](mailto:ssmith14@temple.edu)
 ---
+Why should you learn to speak Italian at Temple University’s College of Liberal Arts? We could tell you ourselves, but wouldn’t you rather hear [student remarks](#italian-student-remarks) about why our Italian program is so great? But if you were to ask us, we’d tell you it’s because our small class sizes give you [face time with our faculty](#face-time-with-faculty). That means you’ll get the personal attention you need to learn Italian in a way that supports your life and career goals. You’ll also get a chance to [study abroad](#italy-1-study-abroad-destination) in Italy, and you might even get to [teach](#teach-in-italy) there! 
 
 ## Why Study Italian? 
 Apart from being the number one study abroad destination among university students, Italy’s importance in the corporate world and its complementary pairing with humanities studies make Italian the fourth most studied foreign language in the United States. The Italian Major at Temple University is an interdisciplinary course of study that, in addition to being built on requirements of language proficiency and core knowledge of Italian literary history, places strong emphasis on cultural, global, and national identity studies. The program’s methodology is based on a communicative approach coupled with technology–based student engagement practice to enhance the students’ language retention, level of competency, and proficiency, as well as to provide a window into Italian culture. The transferable communication and critical thinking skills acquired by the program prove invaluable to employers of liberal arts graduates.
@@ -42,7 +43,7 @@ Build proficiency with an emphasis on the Italian cultural, global and national 
 
 “As a student of psychology, I was always eager to explore and analyze people – the Italian program presented a wonderful opportunity to approach this ultimate objective from a unique angle. Through the acquisition and investigation of a new language and culture, my perception of and appreciation for methods of communication and cultural diversity were enhanced.” (Emma Bushong, Psychology & Italian ’13)
 
-## Face Time With Faculty
+## Face Time with Faculty
 Our small class size allow faculty and students to build a rapport with each other. In turn, we devote a great amount of individual attention to every student throughout their college career, leading them towards success. We understand their talents and potential, and work with them to find  opportunities that best fit their professional and academic aspirations.  
 
 ## Italy: #1 Study Abroad Destination
