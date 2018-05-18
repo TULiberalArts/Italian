@@ -6,6 +6,7 @@ keywords: 'careers, visit, apply, transfer'
 description: >-
 published: true
 ---
+What’s next after you learn to speak Italian? Take a look at where some College of Liberal Arts grads have landed for an idea of what your [career prospects](#careers) could be. Then, take the first steps toward your future by [making your declaration](#make-your-declaration) after you come [visit us](#visit-us) in North Philly. Need more info? Find out everything you need to know about [transferring](#thinking-of-transferring) and take a look at our [deadlines](#deadlines) before you [apply](#apply). 
 
 ## Careers
 Students who have earned a Bachelor’s degree in Italian have been accepted into fully funded Ivy-league graduate doctoral programs while others have had success in the corporate world, both within the United States and abroad.
@@ -29,7 +30,7 @@ For a complete list of our academic offerings visit [liberalarts.temple.edu](lib
 ## Visit Us
 The Office of Admissions offers tours daily. To register for a tour, please go to temple.edu/visit. If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit  opportunities we have throughout the year, including the Liberal Arts Preview Day.  
 
-## Thinking of transferring
+## Thinking of Transferring
 The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible.   To learn more about transferring to Temple, please visit [temple.edu/transfer](temple.edu/transfer)
 
 ## Apply
