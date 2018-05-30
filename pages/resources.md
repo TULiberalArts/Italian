@@ -1,10 +1,13 @@
 ---
-title: Resources
+# global predefined variables
+layout: tla_page
 permalink: /resources/
-layout: page
+published: true
+# meta-data variables
+title: Resources
 keywords: 'graduate language exam, language resources'
 description: >-
-published: true
+# custom variables
 ---
 College of Liberal Arts Italian education graduates wishing to continue their education can take the [Graduate Language Translation Exams](#graduate-language-translation-exams) to test their proficiency. Before you reach that stage, though, take a look at these [language resources](#language-resources), media and culture links, travel and tourism sites and additional Temple University resources to see if learning to speak Italian is right for you.
 
@@ -23,14 +26,14 @@ The passage may be chosen based upon the recommendation of the student’s advis
 (c) the passage must be reviewed by the examiner for degree of difficulty. This assessment must be done **no earlier nor later than one week prior to the exam**. The determination of degree of difficulty is especially important in the case of students who may be aiming for advanced proficiency.
 (d) In the past, submitted passages have been rejected for not meeting the conditions as spelled out in sections (a), (b), and (c) above.
 
-The passage selected to be translated from the original language to English during the exam shall be approximately 350 words in length, and must be translated within ninety minutes. Students may use a dictionary or other resources in doing their translation. However, **no electronic resources will be allowed**. 
+The passage selected to be translated from the original language to English during the exam shall be approximately 350 words in length, and must be translated within ninety minutes. Students may use a dictionary or other resources in doing their translation. However, **no electronic resources will be allowed**.
 
 A passing grade is given if the passage is translated completely with an accuracy rating of satisfactory, and with minimal errors in grammar. However, in the case of students who choose to be tested for advanced proficiency, seeking thereby to be exempted from being tested in another language, an accuracy rating of excellent is required.
 
 For additional information on language translation exams, please contact the appropriate exam proctor below.
 
 - Italian (Fall): [Carmelo Galati](mailto:cgalati@temple.edu)
-- Italian (Spring): [Cristina Gragnani](gragnani@temple.edu) 
+- Italian (Spring): [Cristina Gragnani](gragnani@temple.edu)
 
 ## Language Resources
 

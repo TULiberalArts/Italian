@@ -1,8 +1,11 @@
 ---
-title: Faculty
+# global predefined variables
+layout: tla_faculty
 permalink: /faculty/
-layout: faculty2
+published: true
+# meta-data variables
+title: Faculty
 keywords: 'faculty, italian'
 description: >-
-published: true
+# custom variables
 ---
