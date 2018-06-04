@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: page
+layout: tla_page
 permalink: /undergraduate/
 published: true
 # meta-data variables
@@ -9,28 +9,7 @@ keywords: 'study italian, teach, italian language requirements, student remarks'
 description: >-
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Cristina Gragnani  
-   537 Anderson Hall  
-   [(215) 204-1816](tel:2152041816)  
-   [gragnani@temple.edu](mailto:gragnani@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Michelle Pugliese  
-   429 Anderson Hall   
-   [(215) 204-5628](tel:2152045628)  
-   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
-   
-   ___
-
-   **Coordinator:**  
-   Stephanie Smith  
-   539 Anderson Hall    
-   [(215) 204-1261](tel:2152041261)   
-   [ssmith14@temple.edu](mailto:ssmith14@temple.edu)
+sidebar_content: sidebars/undergraduate.html
 ---
 Why should you learn to speak Italian at Temple University’s College of Liberal Arts? We could tell you ourselves, but wouldn’t you rather hear [student remarks](#italian-student-remarks) about why our Italian program is so great? But if you were to ask us, we’d tell you it’s because our small class sizes give you [face time with our faculty](#face-time-with-faculty). That means you’ll get the personal attention you need to learn Italian in a way that supports your life and career goals. You’ll also get a chance to [study abroad](#italy-1-study-abroad-destination) in Italy, and you might even get to [teach](#teach-in-italy) there!
 
