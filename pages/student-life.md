@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
+  Study abroad in Rome, look for internships, and apply to win awards and scholarships 
+  in the Italian department of the College of Liberal Arts at Temple University.
 keywords: 'study abroad, rome, internships, awards and scholarships'
 # custom variables
 ---
