@@ -7,6 +7,8 @@ published: true
 title: Resources
 keywords: 'graduate language exam, language resources'
 description: >-
+  Learn about the Graduate Language Translation Exams, check out our language resources, culture links,
+  travel and tourism sites, and more resources from Temple University’s College of Liberal Arts.
 # custom variables
 ---
 College of Liberal Arts Italian education graduates wishing to continue their education can take the [Graduate Language Translation Exams](#graduate-language-translation-exams) to test their proficiency. Before you reach that stage, though, take a look at these [language resources](#language-resources), media and culture links, travel and tourism sites and additional Temple University resources to see if learning to speak Italian is right for you.
