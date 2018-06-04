@@ -7,6 +7,8 @@ published: true
 title: Undergraduate
 keywords: 'study italian, teach, italian language requirements, student remarks'
 description: >-
+  Why study Italian at Temple? Hear student remarks, learn about small class size
+  that gives you face time with faculty, and study abroad or even teach in Italy.
 # custom variables
 sidebar: true
 sidebar_content: sidebars/undergraduate.html
