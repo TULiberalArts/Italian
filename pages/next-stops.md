@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
+  See where a degree in Italian from Temple University will take you! Explore your career prospects,
+  make your declaration at the College of Liberal Arts, visit us, and apply!
 keywords: 'careers, visit, apply, transfer'
 # custom variables
 ---
