@@ -5,8 +5,8 @@ permalink: /next-stops/
 published: true
 # meta-data variables
 title: Next Stops
-keywords: 'careers, visit, apply, transfer'
 description: >-
+keywords: 'careers, visit, apply, transfer'
 # custom variables
 ---
 What’s next after you learn to speak Italian? Take a look at where some College of Liberal Arts grads have landed for an idea of what your [career prospects](#careers) could be. Then, take the first steps toward your future by [making your declaration](#make-your-declaration) after you come [visit us](#visit-us) in North Philly. Need more info? Find out everything you need to know about [transferring](#thinking-of-transferring) and take a look at our [deadlines](#deadlines) before you [apply](#apply).
