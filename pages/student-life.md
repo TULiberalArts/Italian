@@ -5,8 +5,8 @@ permalink: /student-life/
 published: true
 # meta-data variables
 title: Student Life
-keywords: 'study abroad, rome, internships, awards and scholarships'
 description: >-
+keywords: 'study abroad, rome, internships, awards and scholarships'
 # custom variables
 ---
 At the College of Liberal Arts, you’ll learn to speak Italian in the classroom—but your education doesn’t have to end there. You can [study abroad](#study-abroad-in-rome) in Rome, [apply for internships](#internships) and win [awards or scholarships](#awards-and-scholarships).
