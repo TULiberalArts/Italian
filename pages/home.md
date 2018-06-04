@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Home
 description: >-
+ Increase your global awareness and cultural literacy by earning a BA, Minor, or Certificate in Italian
+ at Temple University in the College of Liberal Arts.
 keywords: 'academic offerings, BA, minoritalian culture'
 # custom variables
 sidebar: false
