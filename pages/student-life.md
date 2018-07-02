@@ -24,6 +24,9 @@ Your journey of global awareness begins in Philadelphia, but should not end in R
 - **Application Deadline: February 15** <br>
 - [APPLY NOW](https://studyabroad.temple.edu/sites/temple-rome-undergraduate-summer) <br>
 
+## Tutoring
+Italian advanced students volunteer their time to help their peers enrolled in elementary Italian language courses. Tutors gain teaching experience, under the guidance of Italian full time faculty members.
+
 ## Internships
 Each year 2-3 students are selected to serve as English Teaching Assistants via a paid internship in Lombardy, Italy through the [Study, Intercultural Training and Experience (SITE) Program](http://www.dickinson.edu/info/20126/italian_and_italian_studies/181/internshipjob_opportunities/2). Other internship opportunities include [The America-Italy Society (AIS) of Philadelphia](http://www.aisphila.org/) where a paid internship is offered for a summer archival, research, and writing project on its history and mission. The intern gains the opportunity to select historical documents, do research on the web, and prepare information to publish on the AIS website. The newly opened [History of Italian Immigration Museum](http://www.filitaliainternational.com/museum-main) in South Philadelphia also frequently seeks Italian students to intern in positions such as general museum assistance, museum office assistance and public relations.
 
