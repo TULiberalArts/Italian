@@ -28,10 +28,10 @@ Building on a firm foundation of Italian language proficiency, the Italian major
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
-    title="NEED CONTENT"
-    content=" "
+    title="Temple University Rome"
+    content="NEED A DESCRIPTION"
     image=""
-    button-link=" "
+    button-link="https://studyabroad.temple.edu/rome"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
