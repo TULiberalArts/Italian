@@ -37,6 +37,8 @@ For additional information on language translation exams, please contact the app
 - Italian (Fall): [Carmelo Galati](mailto:cgalati@temple.edu)
 - Italian (Spring): [Cristina Gragnani](gragnani@temple.edu)
 
+___
+
 ## Language Resources
 
 **Online Dictionaries**
