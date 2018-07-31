@@ -37,9 +37,8 @@ university:
 college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/  
-  
 program_news: https://liberalarts.temple.edu/news/italian
-program_events: https://events.temple.edu/department/italian 
+program_events: https://events.temple.edu/department/italian
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
 events-feed: https://liberalarts.temple.edu/events/italian/csv
