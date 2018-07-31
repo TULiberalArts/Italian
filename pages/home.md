@@ -26,28 +26,4 @@ Building on a firm foundation of Italian language proficiency, the Italian major
  - [Minor in Italian](http://bulletin.temple.edu/undergraduate/liberal-arts/italian/minor-italian/)
  - [Certificate in Italian](http://bulletin.temple.edu/undergraduate/liberal-arts/italian/certificate-italian/)
 
-<div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
-    title="Temple University Rome"
-    content="NEED A DESCRIPTION"
-    image=""
-    button-link="https://studyabroad.temple.edu/rome"
-    button-text="Learn More" %}
-  </div>
-  <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
-      title="NEED CONTENT"
-      content=""
-      image=""
-      button-link=" "
-      button-text="Learn More" %}
-    </div>
-    <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
-        title="NEED CONTENT"
-        content=" "
-        image=""
-        button-link=" "
-        button-text="Learn More" %}
-      </div>
-</div>
+___
