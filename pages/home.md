@@ -13,7 +13,7 @@ keywords: 'academic offerings, BA, minoritalian culture'
 sidebar: false
 feature: true
 feature-title: Demonstrate an Understanding and Appreciation of Cultural Perspectives and Practices in the Italian-speaking World.
-feature-image: media/resized Italian_2_hero.png
+feature-image: media/resized2_Italian_2_hero.jpg
 feature-body:  >-
  The Italian program is home to adventurous and curious individuals who seek
  to learn about other cultures, break down stereotypes and explore the world. 
