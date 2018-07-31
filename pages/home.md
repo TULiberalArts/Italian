@@ -13,7 +13,7 @@ keywords: 'academic offerings, BA, minoritalian culture'
 sidebar: false
 feature: true
 feature-title: 
-feature-image: media/Italian_2_hero.jpg
+feature-image: media/Italian_hero_final.png
 feature-body:  >-
  The Italian program is home to adventurous and curious individuals who seek
  to learn about other cultures, break down stereotypes and explore the world. 
