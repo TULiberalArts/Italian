@@ -51,3 +51,4 @@ When you are ready to apply, submit your application online at [temple.edu/apply
 ___
 
 <script type="text/javascript" src="https://form.jotform.com/jsform/82124163988160"></script>
+
