@@ -24,6 +24,6 @@ Building on a firm foundation of Italian language proficiency, the Italian major
 
  - [BA in Italian](http://bulletin.temple.edu/undergraduate/liberal-arts/italian/ba-italian/#text)
  - [Minor in Italian](http://bulletin.temple.edu/undergraduate/liberal-arts/italian/minor-italian/)
- - [Certificate in Italian](http://bulletin.temple.edu/undergraduate/liberal-arts/italian/certificate-italian/)
+ - [Certificate in Italian](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-italian/)
 
 ___
