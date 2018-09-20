@@ -14,7 +14,7 @@ keywords: 'study abroad, rome, internships, awards and scholarships'
 At the College of Liberal Arts, you’ll learn to speak Italian in the classroom—but your education doesn’t have to end there. You can [study abroad](#study-abroad-in-rome) in Rome, [apply for internships](#internships) and win [awards or scholarships](#awards-and-scholarships).
 
 ## Study Abroad in Rome
-![Rome Students]({{site.baseurl}}/media/resized Rome Study Abroad.jpg){:.img-right}
+![Rome Students]({{site.baseurl}}/media/resized Rome Study Abroad.jpg){:.responsive-img .img-right}
 Students declaring a major or minor in Italian are encouraged to study abroad. Temple has its own campus in Rome, Italy, which offers courses in a variety of fields including language, art, architecture, and international business. While previous study of Italian is not a requirement for program participation, returned students recommend beginning language study before arrival.
 
 In order to take full advantage of your time abroad, the Italian program at Temple University Main Campus offers courses in beginner, intermediate, and advanced level Italian every semester. We highly encourage our participants to register for these courses before departing for Rome, because, in addition to familiarizing students with the country’s history and culture, studying the language of the host country will provide students with the necessary skills required for communication.
