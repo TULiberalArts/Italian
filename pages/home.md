@@ -11,7 +11,7 @@ description: >-
 keywords: 'academic offerings, BA, minoritalian culture'
 # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-image: media/Italian_hero_final.png
 ---

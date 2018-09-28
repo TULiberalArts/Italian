@@ -10,8 +10,8 @@ description: >-
   Why study Italian at Temple? Hear student remarks, learn about small class size
   that gives you face time with faculty, and study abroad or even teach in Italy.
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html
+
+sidebar: sidebars/undergraduate.html
 ---
 Why should you learn to speak Italian at Temple University’s College of Liberal Arts? We could tell you ourselves, but wouldn’t you rather hear [student remarks](#italian-student-remarks) about why our Italian program is so great? But if you were to ask us, we’d tell you it’s because our small class sizes give you [face time with our faculty](#face-time-with-faculty). That means you’ll get the personal attention you need to learn Italian in a way that supports your life and career goals. You’ll also get a chance to [study abroad](#italy-1-study-abroad-destination) in Italy, and you might even get to [teach](#teach-in-italy) there!
 
