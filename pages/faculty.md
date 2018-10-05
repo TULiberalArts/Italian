@@ -9,4 +9,5 @@ keywords: 'faculty, italian'
 description: >-
   Meet our faculty in the Italian department of the College of Liberal Arts at Temple University!
 # custom variables
+faculty: profiles/faculty.html
 ---
