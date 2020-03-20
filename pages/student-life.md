@@ -25,14 +25,14 @@ Your journey of global awareness begins in Philadelphia but should not end in Ro
 - [APPLY NOW](https://studyabroad.temple.edu/sites/temple-rome-undergraduate-summer) <br>
 
 ## Tutoring
-Italian advanced students volunteer their time to help their peers enrolled in elementary Italian language courses. Tutors gain teaching experience, under the guidance of Italian full time faculty members.
+Italian advanced students volunteer their time to help their peers enrolled in elementary Italian language courses. Tutors gain teaching experience, under the guidance of Italian full-time faculty members.
 
 ## Internships
-Each year 2-3 students are selected to serve as English Teaching Assistants via a paid internship in Lombardy, Italy through the [Study, Intercultural Training and Experience (SITE) Program](http://www.dickinson.edu/info/20126/italian_and_italian_studies/181/internshipjob_opportunities/2). Other internship opportunities include [The America-Italy Society (AIS) of Philadelphia](http://www.aisphila.org/) where a paid internship is offered for a summer archival, research, and writing project on its history and mission. The intern gains the opportunity to select historical documents, do research on the web, and prepare information to publish on the AIS website. The newly opened [History of Italian Immigration Museum](http://www.filitaliainternational.com/museum-main) in South Philadelphia also frequently seeks Italian students to intern in positions such as general museum assistance, museum office assistance and public relations.
+Experiential learning opportunities like internships are crucial to a well-rounded liberal arts education. Learn about [Italian internship opportunities](https://www.temple.edu/academics/degrees-programs/undegraduate-majors-minors/italian-major-ba-ital/careers-internships-opportunities).
 
 ## Awards and Scholarships
-The department of FGIS offers [Marthe Lavallée-Williams Study Abroad Scholarships & Grants](https://form.jotform.com/80604448772158) ranging from $2,000-8,000 to CLA undergraduate students in good academic standing. Assorted awards support language study in France or Italy for 1 semester, 1 academic year or 1 summer.
+The department offers Marthe Lavallée-Williams Study Abroad Scholarships & Grants](https://form.jotform.com/80604448772158) ranging from $2,000-$8,000 to College of Liberal Artsundergraduate students in good academic standing. Assorted awards support language study in Italy for one semester, one academic year or one summer.
 
 Scholarships available outside of the department are offered through organizations such as the [Coccia Foundation](http://www.cocciafoundation.org/), [National Italian-American Foundation](https://www.niaf.org/programs/scholarships/) and [Filitalia](http://www.filitaliainternational.com/?q=node/8). [Fulbright Scholarships](http://www.cies.org/) are also available through the United States Department of State Bureau of Educational and Cultural Affairs.
 
-For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4587&field_awards_academics_class_value=All) page.
+For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [Italian Awards and Scholarships](https://www.temple.edu/academics/degree-programs/italian-major-la-ital-ba/cla-ug-scholarships-financial-aid) page.
