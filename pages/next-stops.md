@@ -16,16 +16,7 @@ What’s next after you learn to speak Italian? Take a look at where some Colleg
 ## Careers
 Students who’ve earned a bachelors degree in Italian have continued their education at prestigious universities as well as launched successful careers in government and private industry at home and abroad.
 
-Our students have gone onto further graduate study in  Italian, as well as internship positions at the Consulate General of Italy. They also frequently enter the fields of law, science, communications and education.
-
-Among other landings, our recent alumni have secured the following job placements:
-
-- Italian Language Program Coordinator, The University of Pennsylvania
-- Associate Project Manager, Clean Energy Associates
-- Executive Assistant, Filitalia International Organization
-- Protocol Administrator, GOG (Gynecologic Oncology Group)
-- Marketing Communication Specialist, Educere LLC
-- Scholarship Coordinator, Janet Logan Daily Foundation
+Visit the [Italian careers, internships and opportunities page](https://www.temple.edu/academics/degrees-programs/undegraduate-majors-minors/italian-major-ba-ital/careers-internships-opportunities) for more information.
 
 ## Make Your Declaration
 The College of Liberal Arts has the largest selection of  academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.   
@@ -51,4 +42,3 @@ When you are ready to apply, submit your application online at [temple.edu/apply
 ___
 
 <script type="text/javascript" src="https://form.jotform.com/jsform/82124163988160"></script>
-
