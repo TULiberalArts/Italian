@@ -21,6 +21,12 @@ To help you take full advantage of your time abroad, Temple University’s Main 
 
 Your journey of global awareness begins in Philadelphia but should not end in Rome. Upon returning, it’s recommended that students continue practicing their language skills by furthering their studies through the Italian program so that they may take full advantage of the Temple Rome experience.
 
+Learn more about our [TU Rome Program](https://studyabroad.temple.edu/sites/temple-rome-semester) 
+
+Studying at Temple Rome already places students on a track to completing a BA, Minor in Italian Studies.
+
+Planning to study at Temple Rome? Have already studied at Temple Rome? Some of the course you take there might count toward a degree in Italian Studies. Upper level courses focusing on Italy in the fields of Sociology, Anthropology, Art History, Political Science among others may count upon approval of the Italian Program Adviser. For more information? Email Professor Cristina Gragnani at gragnani@temple.edu. 
+
 - **Application Deadline: February 15** <br>
 - [APPLY NOW](https://studyabroad.temple.edu/sites/temple-rome-undergraduate-summer) <br>
 
