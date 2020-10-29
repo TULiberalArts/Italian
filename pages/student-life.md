@@ -25,7 +25,7 @@ Learn more about our [TU Rome Program](https://studyabroad.temple.edu/sites/temp
 
 Studying at Temple Rome already places students on a track to completing a BA, Minor in Italian Studies.
 
-Planning to study at Temple Rome? Have already studied at Temple Rome? Some of the course you take there might count toward a degree in Italian Studies. Upper level courses focusing on Italy in the fields of Sociology, Anthropology, Art History, Political Science among others may count upon approval of the Italian Program Adviser. For more information? Email Professor Cristina Gragnani at gragnani@temple.edu. 
+Planning to study at Temple Rome? Have already studied at Temple Rome? Some of the course you take there might count toward a degree in Italian Studies. Upper level courses focusing on Italy in the fields of Sociology, Anthropology, Art History, Political Science among others may count upon approval of the Italian Program Adviser. For more information? Email Professor Cristina Gragnani at [gragnani@temple.edu](mailto:gragnani@temple.edu). 
 
 - **Application Deadline: February 15** <br>
 - [APPLY NOW](https://studyabroad.temple.edu/sites/temple-rome-undergraduate-summer) <br>
