@@ -11,7 +11,7 @@ description: >-
 keywords: 'careers, visit, apply, transfer'
 # custom variables
 ---
-What’s next after you learn to speak Italian? Take a look at where some College of Liberal Arts grads have landed for an idea of what your career prospects](#careers) could be. Then, take the first steps toward your future by [making your declaration](#make-your-declaration) after [visiting us](#visit-us) in North Philly. Need more info? Find out everything you need to know about transferring](#thinking-of-transferring) and our application [deadlines](#deadlines) before you [apply](#apply).
+What’s next after you learn to speak Italian? Take a look at where some College of Liberal Arts grads have landed for an idea of what your career prospects](#careers) could be. Then, take the first steps toward your future by [making your declaration](#make-your-declaration) after [visiting us](#visit-us) in North Philly. Need more info? Find out everything you need to know about [transferring](#thinking-of-transferring) and our application [deadlines](#deadlines) before you [apply](#apply).
 
 ## Careers
 Students who’ve earned a bachelors degree in Italian have continued their education at prestigious universities as well as launched successful careers in government and private industry at home and abroad.
